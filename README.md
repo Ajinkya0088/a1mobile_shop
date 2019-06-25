@@ -8,10 +8,10 @@
 * MySql(PhpMyAdmin)
 
 ## User Section
-![user_section](user_section.gif)
+![user_section](/GIF/user_section.gif)
 
 ## Admin Section
-![admin_section](admin_section.gif)
+![admin_section](/GIF/admin_section.gif)
 
 ## Contributor 
 * [Ajinkya Pawar](https://github.com/Ajinkya0088/)
